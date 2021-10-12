@@ -1,7 +1,7 @@
 import cv2
-import numpy as np
+import numpy as np #importing numpy
 import operator
-from keras.models import load_model
+from keras.models import load_model #keral dl library 
 from keras.models import model_from_json
 import sudoku_solver as sol
 
